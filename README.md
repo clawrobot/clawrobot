@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Evan Langford, and I'm a fullstack software engineer. I build beautiful frontend pages with secure backend systems with stacks. I care about making apps that are user-friendly and deeply helpful. 
+My name is Evan Langford, and I'm a fullstack software engineer, and a sophomore at UTSA. I build beautiful frontend pages with secure backend systems with stacks. I care about making apps that are user-friendly and deeply helpful. 
 
 ### Featured
 - 🚀 [Project A](link) - one-liner outcome

@@ -1,25 +1,37 @@
-## Hi there 👋
-My name is Evan Langford, and I'm a fullstack software engineer, and a sophomore at UTSA. I build beautiful frontend pages with secure backend systems with stacks. I care about making apps that are user-friendly and deeply helpful. 
+# Hi there 👋
 
-### Featured
-- 🚀 [Workout Tracker (Full-Stack Web App)]([link](https://github.com/clawrobot/workout-tracker)) - one-liner outcome
+I’m Evan, a **full-stack developer** passionate about building apps that are simple, useful, and look great.  
 
-### Toolbox
-<badges or short list: TypeScript · Python · Postgres · Docker · AWS · k8s>
+---
 
-### Links
-[Website](evanalangford.com) · [LinkedIn](https://www.linkedin.com/in/evan-langford-418409325/) · [Email](langfordevana@gmail.com)
-<!--
-**clawrobot/clawrobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Toolbox
+**Frontend:** React, TypeScript, Vite, TailwindCSS  
+**Backend:** Node.js, Express, Prisma ORM  
+**Database:** PostgreSQL, Docker & docker-compose  
+**Tooling:** PNPM, Turborepo, Git/GitHub, Prisma Studio  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+### [Workout Tracker](https://github.com/clawrobot/workout-tracker)
+A full-stack gym/workout tracking app.  
+- Built with **React (Vite + TS + Tailwind)** + **Express API**  
+- **Postgres + Prisma** for database persistence  
+- CRUD features for workouts, exercises, and sets  
+- **Dockerized Postgres** for local dev  
+- Monorepo managed with **pnpm + Turborepo**  
+
+**Outcome:** Delivered a complete end-to-end app showcasing frontend, backend, and database integration.  
+
+---
+
+## 🌱 Currently Learning
+- Authentication & authorization (Clerk / NextAuth)  
+- Deployment workflows (Vercel, Render, Railway, Supabase)  
+
+---
+
+## 📫 Get in touch
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin/)  
+- Portfolio: [your-portfolio](https://your-portfolio.com)  
+- Email: you@example.com  

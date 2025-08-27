@@ -32,5 +32,5 @@ A full-stack gym/workout tracking app.
 ---
 
 ## 📫 Get in touch
-- LinkedIn: [link]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/evan-langford-418409325/))  
+- LinkedIn: [link](https://www.linkedin.com/in/evan-langford-418409325/)  
 - Email: langfordevana@gmail.com

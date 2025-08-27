@@ -2,9 +2,7 @@
 My name is Evan Langford, and I'm a fullstack software engineer, and a sophomore at UTSA. I build beautiful frontend pages with secure backend systems with stacks. I care about making apps that are user-friendly and deeply helpful. 
 
 ### Featured
-- 🚀 [Project A](link) - one-liner outcome
-- 🧰 [Project B](link) - one-liner outcome
-- 📊 [Project C](link) - one-liner outcome
+- 🚀 [Workout Tracker (Full-Stack Web App)]([link](https://github.com/clawrobot/workout-tracker)) - one-liner outcome
 
 ### Toolbox
 <badges or short list: TypeScript · Python · Postgres · Docker · AWS · k8s>

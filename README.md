@@ -4,7 +4,7 @@ I’m Evan, a **full-stack developer** passionate about building apps that are s
 
 ---
 
-## 🧰 Toolbox
+## Toolbox
 **Frontend:** React, TypeScript, Vite, TailwindCSS  
 **Backend:** Node.js, Express, Prisma ORM  
 **Database:** PostgreSQL, Docker & docker-compose  
@@ -12,7 +12,7 @@ I’m Evan, a **full-stack developer** passionate about building apps that are s
 
 ---
 
-## 🚀 Featured Project
+## Featured Projects
 ### [Workout Tracker](https://github.com/clawrobot/workout-tracker)
 A full-stack gym/workout tracking app.  
 - Built with **React (Vite + TS + Tailwind)** + **Express API**  
@@ -23,14 +23,26 @@ A full-stack gym/workout tracking app.
 
 **Outcome:** Delivered a complete end-to-end app showcasing frontend, backend, and database integration.  
 
+### [Interview Tester (AI-Powered)](https://github.com/clawrobot/interview-tester)  
+An AI-driven web app for practicing interview questions with automated scoring and feedback.  
+
+- Built with **Next.js 15 + React**, **TypeScript**, and **TailwindCSS** (shadcn/ui)  
+- **Prisma + SQLite** for database modeling and persistence  
+- **API Routes** for handling questions, attempts, and scoring  
+- Integrated **OpenAI GPT-4o-mini** for structured feedback and scoring (0–100)  
+- Added **speech-to-text** support with **OpenAI Whisper** (voice → text transcription)  
+- Clean, responsive UI for practicing, submitting, and tracking attempts  
+
+**Outcome:** Delivered a full-stack AI-powered practice platform demonstrating frontend, backend, database, and AI integration.  
+
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - Authentication & authorization (Clerk / NextAuth)  
 - Deployment workflows (Vercel, Render, Railway, Supabase)  
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 - LinkedIn: [link](https://www.linkedin.com/in/evan-langford-418409325/)  
 - Email: langfordevana@gmail.com

@@ -23,7 +23,7 @@ A full-stack gym/workout tracking app.
 
 **Outcome:** Delivered a complete end-to-end app showcasing frontend, backend, and database integration.  
 
-### [Interview Tester (AI-Powered)](https://github.com/clawrobot/interview-tester)  
+### [AI Interview Tester](https://github.com/clawrobot/interview-tester)  
 An AI-driven web app for practicing interview questions with automated scoring and feedback.  
 
 - Built with **Next.js 15 + React**, **TypeScript**, and **TailwindCSS** (shadcn/ui)  
